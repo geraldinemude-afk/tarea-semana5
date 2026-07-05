@@ -1,0 +1,3 @@
+http://localhost:3000 (dice "servidor activo")
+http://localhost:3000/saludo (saluda a la comunidad "hola comunidad")
+http://localhost:3000/mensaje/juan (saluda a juan, dice "hola juan"

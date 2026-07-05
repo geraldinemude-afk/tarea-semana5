@@ -1,0 +1,5 @@
+Esta ruta permite infomar si una información se envió o no de forma correcta.
+Puede servir en una pallicación comuntiaria, porque por ejemplo si ocurre
+uuna emergencia en la comundiad o hay na información que debe enviarse 
+inmediatamente, esto va a permitir que llegue de manera rápida y va a asegurar
+si se envió correctamente
